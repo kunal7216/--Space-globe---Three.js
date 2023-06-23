@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2023 isladjan (https://codepen.io/isladjan/pen/bGpjZwN)
+Copyright (c) 2023Kunal Kumar (https://codepen.io/kunal7216/pen/LYXbWJB)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
